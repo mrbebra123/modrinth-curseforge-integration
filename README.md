@@ -1,48 +1,62 @@
-<picture>
-	<source media="(prefers-color-scheme: light)" srcset=".github/assets/monorepo_cover_light.png">
-	<img alt="Modrinth Monorepo Cover" src=".github/assets/monorepo_cover.png">
-</picture>
+# Madrid — Courseforge Integration
 
-![Issues](https://img.shields.io/github/issues-raw/Modrinth/code?color=c78aff&label=issues&style=for-the-badge)
-![Pull Requests](https://img.shields.io/github/issues-pr-raw/Modrinth/code?color=c78aff&label=PRs&style=for-the-badge)
-![Contributors](https://img.shields.io/github/contributors/Modrinth/code?color=c78aff&label=contributors&style=for-the-badge)
-![Lines of Code](https://img.shields.io/endpoint?url=https://loctopus.creeperkatze.dev/github/modrinth/code/badge?style=flat&logoColor=white&color=c78aff&style=for-the-badge)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/Modrinth/code?color=c78aff&label=commits&style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/Modrinth/code?color=c78aff&label=last%20commit&style=for-the-badge)
+A personal, non-commercial modification of the Madrid project, featuring an integration with Courseforge.
 
-## Modrinth Monorepo
+## 📖 About the Project
 
-Welcome to the Modrinth Monorepo, the primary codebase for the Modrinth website, app, API and documentation. It contains ![Lines of code](https://img.shields.io/endpoint?url=https://loctopus.creeperkatze.dev/github/modrinth/code/badge%3Fformat%3Dhuman&logoColor=white&color=black&label=) lines of code and has ![Contributors](https://img.shields.io/github/contributors/Modrinth/code?color=black&label=) contributors!
+This project is a modified version of Madrid, developed to extend its functionality with support for downloading projects from Courseforge.
 
-If you're not a developer and you've stumbled upon this repository, you can access the web interface on the [Modrinth website](https://modrinth.com) and download the latest release of the app [here](https://modrinth.com/app).
+The main goal is to provide a convenient way to access and download Courseforge projects directly through the Madrid interface.
 
-## Development
+This modification is intended primarily for personal use, experimentation, and learning.
 
-This repository contains several projects. For detailed development information, please refer to their respective guides:
+## ✨ Features
 
-| Project       | Directory              | Guide                                                     |
-| ------------- | ---------------------- | --------------------------------------------------------- |
-| Website       | `apps/frontend`        | [Guide](https://docs.modrinth.com/contributing/knossos/)  |
-| App           | `apps/app`             | [Guide](https://docs.modrinth.com/contributing/theseus/)  |
-| API           | `apps/labrinth`        | [Guide](https://docs.modrinth.com/contributing/labrinth/) |
-| Documentation | `apps/docs`            | [Guide](https://docs.modrinth.com/contributing/docs/)     |
+- **Courseforge Integration** — A dedicated button for downloading projects from Courseforge.
+- **Madrid Functionality** — Preserves the original functionality of Madrid.
+- **Simple Interface** — Integrates the new feature into the existing application.
+- **API-Based Access** — Designed to communicate with Courseforge through its official API.
 
-Shared libraries live in `packages/`.
+## 🔑 Courseforge API
 
-## Contributing
+The Courseforge integration requires an API key.
 
-We welcome contributions! Before submitting any contributions, please read our [contributing guidelines](https://docs.modrinth.com/contributing/getting-started/).
+API access is currently being requested. The integration will use the official Courseforge API, subject to its documentation, permissions, and usage policies.
 
-If you plan to fork this repository for your own purposes, please review our [copying guidelines](COPYING.md).
+API keys are not included in this repository and should be kept private.
 
-## Security
+## 🎯 Project Goals
 
-If you discover a security vulnerability within our codebase, please follow our [responsible disclosure guidelines](https://modrinth.com/legal/security).
+The primary objectives are:
 
-## Support
+1. Extend Madrid with Courseforge support.
+2. Simplify downloading Courseforge projects.
+3. Explore API integration and application development.
+4. Maintain compatibility with the original Madrid functionality.
 
-If you need help with the Modrinth web interface or app, please visit our [support page](https://support.modrinth.com). For general inquiries, you can also join our [Discord server](https://discord.modrinth.com).
+## 💻 Usage
 
-## License
+This project is primarily developed for personal use and is not intended as a commercial product.
 
-All packages in this repository are licensed under their respective licenses. See the [copying guidelines](COPYING.md) for details, including restrictions on Modrinth branding.
+## 💰 Monetization
+
+**This project is completely non-commercial.**
+
+There are no plans to introduce paid features, subscriptions, advertisements, or other forms of monetization.
+
+## 📜 Credits
+
+- **Madrid** — Original project and source code.
+- **Courseforge** — External platform intended for API integration.
+
+This project is an independent modification and is not officially affiliated with or endorsed by Courseforge.
+
+## 📌 Development Status
+
+**Status: Experimental / In Development**
+
+The Courseforge integration is under development and depends on obtaining the necessary API access.
+
+---
+
+*Created for personal use, learning, and experimentation.*
