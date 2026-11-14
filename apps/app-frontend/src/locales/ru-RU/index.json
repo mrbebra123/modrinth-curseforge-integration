@@ -4432,5 +4432,353 @@
   },
   "settings.sidebar.label.display": {
     "message": "Отображение"
+  },
+  "app.curseforge.category.mods": {
+    "message": "Моды"
+  },
+  "app.curseforge.category.modpacks": {
+    "message": "Сборки модов"
+  },
+  "app.curseforge.category.resource-packs": {
+    "message": "Наборы ресурсов"
+  },
+  "app.curseforge.category.texture-packs": {
+    "message": "Наборы текстур"
+  },
+  "app.curseforge.category.shaders": {
+    "message": "Шейдеры"
+  },
+  "app.curseforge.category.data-packs": {
+    "message": "Наборы данных"
+  },
+  "app.curseforge.category.bukkit-plugins": {
+    "message": "Плагины Bukkit"
+  },
+  "app.curseforge.category.worlds": {
+    "message": "Миры"
+  },
+  "app.curseforge.category.customization": {
+    "message": "Персонализация"
+  },
+  "app.curseforge.category.addons": {
+    "message": "Дополнения"
+  },
+  "app.curseforge.category.addons-bedrock": {
+    "message": "Дополнения Bedrock"
+  },
+  "app.curseforge.category.adventure-and-rpg": {
+    "message": "Приключения и RPG"
+  },
+  "app.curseforge.category.adventure": {
+    "message": "Приключения"
+  },
+  "app.curseforge.category.technology": {
+    "message": "Технологии"
+  },
+  "app.curseforge.category.magic": {
+    "message": "Магия"
+  },
+  "app.curseforge.category.world-gen": {
+    "message": "Генерация мира"
+  },
+  "app.curseforge.category.world-generation": {
+    "message": "Генерация мира"
+  },
+  "app.curseforge.category.biomes": {
+    "message": "Биомы"
+  },
+  "app.curseforge.category.ores-and-resources": {
+    "message": "Руды и ресурсы"
+  },
+  "app.curseforge.category.structures": {
+    "message": "Структуры"
+  },
+  "app.curseforge.category.dimensions": {
+    "message": "Измерения"
+  },
+  "app.curseforge.category.mobs": {
+    "message": "Мобы"
+  },
+  "app.curseforge.category.food": {
+    "message": "Еда"
+  },
+  "app.curseforge.category.farming": {
+    "message": "Фермерство"
+  },
+  "app.curseforge.category.energy": {
+    "message": "Энергия"
+  },
+  "app.curseforge.category.energy-fluid-and-item-transport": {
+    "message": "Передача энергии, жидкостей и предметов"
+  },
+  "app.curseforge.category.storage": {
+    "message": "Хранение"
+  },
+  "app.curseforge.category.automation": {
+    "message": "Автоматизация"
+  },
+  "app.curseforge.category.processing": {
+    "message": "Обработка ресурсов"
+  },
+  "app.curseforge.category.player-transport": {
+    "message": "Перемещение игроков"
+  },
+  "app.curseforge.category.genetics": {
+    "message": "Генетика"
+  },
+  "app.curseforge.category.cosmetic": {
+    "message": "Оформление"
+  },
+  "app.curseforge.category.utility-qol": {
+    "message": "Удобство и улучшения"
+  },
+  "app.curseforge.category.map-and-information": {
+    "message": "Карты и информация"
+  },
+  "app.curseforge.category.library-api": {
+    "message": "Библиотеки и API"
+  },
+  "app.curseforge.category.api-and-library": {
+    "message": "API и библиотеки"
+  },
+  "app.curseforge.category.server-utility": {
+    "message": "Серверные утилиты"
+  },
+  "app.curseforge.category.performance": {
+    "message": "Производительность"
+  },
+  "app.curseforge.category.redstone": {
+    "message": "Редстоун"
+  },
+  "app.curseforge.category.redstone-utility": {
+    "message": "Утилиты редстоуна"
+  },
+  "app.curseforge.category.twitch-integration": {
+    "message": "Интеграция с Twitch"
+  },
+  "app.curseforge.category.miscellaneous": {
+    "message": "Разное"
+  },
+  "app.curseforge.category.tech": {
+    "message": "Технологии"
+  },
+  "app.curseforge.category.combat-pvp": {
+    "message": "Бои / PvP"
+  },
+  "app.curseforge.category.combat": {
+    "message": "Бои"
+  },
+  "app.curseforge.category.exploration": {
+    "message": "Исследование"
+  },
+  "app.curseforge.category.extra-large": {
+    "message": "Очень большие"
+  },
+  "app.curseforge.category.small-light": {
+    "message": "Небольшие / лёгкие"
+  },
+  "app.curseforge.category.quests": {
+    "message": "Задания"
+  },
+  "app.curseforge.category.sci-fi": {
+    "message": "Научная фантастика"
+  },
+  "app.curseforge.category.multiplayer": {
+    "message": "Сетевая игра"
+  },
+  "app.curseforge.category.hardcore": {
+    "message": "Хардкор"
+  },
+  "app.curseforge.category.skyblock": {
+    "message": "Скайблок"
+  },
+  "app.curseforge.category.vanilla": {
+    "message": "Ванильные"
+  },
+  "app.curseforge.category.mini-game": {
+    "message": "Мини-игры"
+  },
+  "app.curseforge.category.mini-games": {
+    "message": "Мини-игры"
+  },
+  "app.curseforge.category.survival": {
+    "message": "Выживание"
+  },
+  "app.curseforge.category.parkour": {
+    "message": "Паркур"
+  },
+  "app.curseforge.category.puzzle": {
+    "message": "Головоломки"
+  },
+  "app.curseforge.category.creation": {
+    "message": "Постройки"
+  },
+  "app.curseforge.category.game-map": {
+    "message": "Игровые карты"
+  },
+  "app.curseforge.category.modded-world": {
+    "message": "Миры с модами"
+  },
+  "app.curseforge.category.traditional": {
+    "message": "Классические"
+  },
+  "app.curseforge.category.modern": {
+    "message": "Современные"
+  },
+  "app.curseforge.category.medieval": {
+    "message": "Средневековые"
+  },
+  "app.curseforge.category.steampunk": {
+    "message": "Стимпанк"
+  },
+  "app.curseforge.category.photo-realistic": {
+    "message": "Фотореалистичные"
+  },
+  "app.curseforge.category.animated": {
+    "message": "Анимированные"
+  },
+  "app.curseforge.category.512x-and-higher": {
+    "message": "512x и выше"
+  },
+  "app.curseforge.category.font-packs": {
+    "message": "Шрифты"
+  },
+  "app.curseforge.category.language-packs": {
+    "message": "Языковые пакеты"
+  },
+  "app.curseforge.category.configuration": {
+    "message": "Конфигурация"
+  },
+  "app.curseforge.category.lucky-blocks": {
+    "message": "Лаки-блоки"
+  },
+  "app.curseforge.category.building-gadgets": {
+    "message": "Инструменты строительства"
+  },
+  "app.curseforge.category.scripts": {
+    "message": "Скрипты"
+  },
+  "app.curseforge.category.recipes": {
+    "message": "Рецепты"
+  },
+  "app.curseforge.category.realistic": {
+    "message": "Реалистичные"
+  },
+  "app.curseforge.category.fantasy": {
+    "message": "Фэнтези"
+  },
+  "app.curseforge.category.low-end": {
+    "message": "Для слабых компьютеров"
+  },
+  "app.curseforge.category.high-end": {
+    "message": "Для мощных компьютеров"
+  },
+  "app.curseforge.category.lagless": {
+    "message": "Оптимизированные"
+  },
+  "app.curseforge.content-type": {
+    "message": "Тип контента"
+  },
+  "app.curseforge.category": {
+    "message": "Категория"
+  },
+  "app.curseforge.sort": {
+    "message": "Сортировка"
+  },
+  "app.curseforge.enter": {
+    "message": "Нажмите Enter для поиска"
+  },
+  "app.curseforge.clear": {
+    "message": "Очистить поиск"
+  },
+  "app.curseforge.retry": {
+    "message": "Повторить попытку"
+  },
+  "app.curseforge.proxy-description": {
+    "message": "CurseForge подключён через сервер приложения. Личный API-ключ не требуется."
+  },
+  "app.settings.tabs.curseforge": {
+    "message": "CurseForge"
+  },
+  "app.curseforge.api-key": {
+    "message": "API-ключ CurseForge"
+  },
+  "app.curseforge.key-description": {
+    "message": "Введите свой API-ключ для поиска и скачивания контента с CurseForge. Ключ хранится локально на этом компьютере."
+  },
+  "app.curseforge.configured": {
+    "message": "API-ключ настроен"
+  },
+  "app.curseforge.save-key": {
+    "message": "Сохранить ключ"
+  },
+  "app.curseforge.remove-key": {
+    "message": "Удалить ключ"
+  },
+  "app.curseforge.search": {
+    "message": "Поиск в CurseForge"
+  },
+  "app.curseforge.search-button": {
+    "message": "Найти"
+  },
+  "app.curseforge.loading": {
+    "message": "Загрузка…"
+  },
+  "app.curseforge.empty": {
+    "message": "Подходящие проекты не найдены."
+  },
+  "app.curseforge.instance": {
+    "message": "Выберите экземпляр игры"
+  },
+  "app.curseforge.versions": {
+    "message": "Версии"
+  },
+  "app.curseforge.install": {
+    "message": "Установить"
+  },
+  "app.curseforge.installing": {
+    "message": "Скачивание и установка…"
+  },
+  "app.curseforge.installed": {
+    "message": "Установлено"
+  },
+  "app.curseforge.website": {
+    "message": "Открыть на CurseForge"
+  },
+  "app.curseforge.restricted": {
+    "message": "Автор запретил скачивание через сторонние лаунчеры."
+  },
+  "app.curseforge.previous": {
+    "message": "Назад"
+  },
+  "app.curseforge.next": {
+    "message": "Далее"
+  },
+  "app.curseforge.all-categories": {
+    "message": "Все категории"
+  },
+  "app.curseforge.popular": {
+    "message": "По популярности"
+  },
+  "app.curseforge.updated": {
+    "message": "Недавно обновлённые"
+  },
+  "app.curseforge.downloads": {
+    "message": "Скачивания"
+  },
+  "app.curseforge.game-version": {
+    "message": "Версия Minecraft"
+  },
+  "app.curseforge.loader": {
+    "message": "Все загрузчики"
+  },
+  "app.curseforge.settings": {
+    "message": "Настройки API"
+  },
+  "app.curseforge.no-files": {
+    "message": "Совместимые файлы не найдены."
+  },
+  "app.curseforge.download-file": {
+    "message": "Скачать файл"
   }
 }

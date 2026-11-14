@@ -320,6 +320,330 @@
   "app.content.sync-resource-packs-disabled": {
     "message": "Turn on resource pack syncing in app settings first."
   },
+  "app.curseforge.all-categories": {
+    "message": "All categories"
+  },
+  "app.curseforge.category": {
+    "message": "Category"
+  },
+  "app.curseforge.category.512x-and-higher": {
+    "message": "512x and Higher"
+  },
+  "app.curseforge.category.addons": {
+    "message": "Addons"
+  },
+  "app.curseforge.category.addons-bedrock": {
+    "message": "Addons (Bedrock)"
+  },
+  "app.curseforge.category.adventure": {
+    "message": "Adventure"
+  },
+  "app.curseforge.category.adventure-and-rpg": {
+    "message": "Adventure and RPG"
+  },
+  "app.curseforge.category.animated": {
+    "message": "Animated"
+  },
+  "app.curseforge.category.api-and-library": {
+    "message": "API and Library"
+  },
+  "app.curseforge.category.automation": {
+    "message": "Automation"
+  },
+  "app.curseforge.category.biomes": {
+    "message": "Biomes"
+  },
+  "app.curseforge.category.building-gadgets": {
+    "message": "Building Gadgets"
+  },
+  "app.curseforge.category.bukkit-plugins": {
+    "message": "Bukkit Plugins"
+  },
+  "app.curseforge.category.combat": {
+    "message": "Combat"
+  },
+  "app.curseforge.category.combat-pvp": {
+    "message": "Combat / PvP"
+  },
+  "app.curseforge.category.configuration": {
+    "message": "Configuration"
+  },
+  "app.curseforge.category.cosmetic": {
+    "message": "Cosmetic"
+  },
+  "app.curseforge.category.creation": {
+    "message": "Creation"
+  },
+  "app.curseforge.category.customization": {
+    "message": "Customization"
+  },
+  "app.curseforge.category.data-packs": {
+    "message": "Data Packs"
+  },
+  "app.curseforge.category.dimensions": {
+    "message": "Dimensions"
+  },
+  "app.curseforge.category.energy": {
+    "message": "Energy"
+  },
+  "app.curseforge.category.energy-fluid-and-item-transport": {
+    "message": "Energy, Fluid, and Item Transport"
+  },
+  "app.curseforge.category.exploration": {
+    "message": "Exploration"
+  },
+  "app.curseforge.category.extra-large": {
+    "message": "Extra Large"
+  },
+  "app.curseforge.category.fantasy": {
+    "message": "Fantasy"
+  },
+  "app.curseforge.category.farming": {
+    "message": "Farming"
+  },
+  "app.curseforge.category.font-packs": {
+    "message": "Font Packs"
+  },
+  "app.curseforge.category.food": {
+    "message": "Food"
+  },
+  "app.curseforge.category.game-map": {
+    "message": "Game Map"
+  },
+  "app.curseforge.category.genetics": {
+    "message": "Genetics"
+  },
+  "app.curseforge.category.hardcore": {
+    "message": "Hardcore"
+  },
+  "app.curseforge.category.high-end": {
+    "message": "High End"
+  },
+  "app.curseforge.category.lagless": {
+    "message": "Lagless"
+  },
+  "app.curseforge.category.language-packs": {
+    "message": "Language Packs"
+  },
+  "app.curseforge.category.library-api": {
+    "message": "Library & API"
+  },
+  "app.curseforge.category.low-end": {
+    "message": "Low End"
+  },
+  "app.curseforge.category.lucky-blocks": {
+    "message": "Lucky Blocks"
+  },
+  "app.curseforge.category.magic": {
+    "message": "Magic"
+  },
+  "app.curseforge.category.map-and-information": {
+    "message": "Map and Information"
+  },
+  "app.curseforge.category.medieval": {
+    "message": "Medieval"
+  },
+  "app.curseforge.category.mini-game": {
+    "message": "Mini Game"
+  },
+  "app.curseforge.category.mini-games": {
+    "message": "Mini Games"
+  },
+  "app.curseforge.category.miscellaneous": {
+    "message": "Miscellaneous"
+  },
+  "app.curseforge.category.mobs": {
+    "message": "Mobs"
+  },
+  "app.curseforge.category.modded-world": {
+    "message": "Modded World"
+  },
+  "app.curseforge.category.modern": {
+    "message": "Modern"
+  },
+  "app.curseforge.category.modpacks": {
+    "message": "Modpacks"
+  },
+  "app.curseforge.category.mods": {
+    "message": "Mods"
+  },
+  "app.curseforge.category.multiplayer": {
+    "message": "Multiplayer"
+  },
+  "app.curseforge.category.ores-and-resources": {
+    "message": "Ores and Resources"
+  },
+  "app.curseforge.category.parkour": {
+    "message": "Parkour"
+  },
+  "app.curseforge.category.performance": {
+    "message": "Performance"
+  },
+  "app.curseforge.category.photo-realistic": {
+    "message": "Photo Realistic"
+  },
+  "app.curseforge.category.player-transport": {
+    "message": "Player Transport"
+  },
+  "app.curseforge.category.processing": {
+    "message": "Processing"
+  },
+  "app.curseforge.category.puzzle": {
+    "message": "Puzzle"
+  },
+  "app.curseforge.category.quests": {
+    "message": "Quests"
+  },
+  "app.curseforge.category.realistic": {
+    "message": "Realistic"
+  },
+  "app.curseforge.category.recipes": {
+    "message": "Recipes"
+  },
+  "app.curseforge.category.redstone": {
+    "message": "Redstone"
+  },
+  "app.curseforge.category.redstone-utility": {
+    "message": "Redstone Utility"
+  },
+  "app.curseforge.category.resource-packs": {
+    "message": "Resource Packs"
+  },
+  "app.curseforge.category.sci-fi": {
+    "message": "Sci-Fi"
+  },
+  "app.curseforge.category.scripts": {
+    "message": "Scripts"
+  },
+  "app.curseforge.category.server-utility": {
+    "message": "Server Utility"
+  },
+  "app.curseforge.category.shaders": {
+    "message": "Shaders"
+  },
+  "app.curseforge.category.skyblock": {
+    "message": "Skyblock"
+  },
+  "app.curseforge.category.small-light": {
+    "message": "Small / Light"
+  },
+  "app.curseforge.category.steampunk": {
+    "message": "Steampunk"
+  },
+  "app.curseforge.category.storage": {
+    "message": "Storage"
+  },
+  "app.curseforge.category.structures": {
+    "message": "Structures"
+  },
+  "app.curseforge.category.survival": {
+    "message": "Survival"
+  },
+  "app.curseforge.category.tech": {
+    "message": "Tech"
+  },
+  "app.curseforge.category.technology": {
+    "message": "Technology"
+  },
+  "app.curseforge.category.texture-packs": {
+    "message": "Texture Packs"
+  },
+  "app.curseforge.category.traditional": {
+    "message": "Traditional"
+  },
+  "app.curseforge.category.twitch-integration": {
+    "message": "Twitch Integration"
+  },
+  "app.curseforge.category.utility-qol": {
+    "message": "Utility & QoL"
+  },
+  "app.curseforge.category.vanilla": {
+    "message": "Vanilla"
+  },
+  "app.curseforge.category.world-gen": {
+    "message": "World Gen"
+  },
+  "app.curseforge.category.world-generation": {
+    "message": "World Generation"
+  },
+  "app.curseforge.category.worlds": {
+    "message": "Worlds"
+  },
+  "app.curseforge.clear": {
+    "message": "Clear search"
+  },
+  "app.curseforge.content-type": {
+    "message": "Content type"
+  },
+  "app.curseforge.download-file": {
+    "message": "Download file"
+  },
+  "app.curseforge.downloads": {
+    "message": "Downloads"
+  },
+  "app.curseforge.empty": {
+    "message": "No matching projects found."
+  },
+  "app.curseforge.enter": {
+    "message": "Press Enter to search"
+  },
+  "app.curseforge.game-version": {
+    "message": "Minecraft version"
+  },
+  "app.curseforge.install": {
+    "message": "Install"
+  },
+  "app.curseforge.installed": {
+    "message": "Installed"
+  },
+  "app.curseforge.installing": {
+    "message": "Downloading and installing…"
+  },
+  "app.curseforge.instance": {
+    "message": "Select an instance"
+  },
+  "app.curseforge.loader": {
+    "message": "All loaders"
+  },
+  "app.curseforge.loading": {
+    "message": "Loading…"
+  },
+  "app.curseforge.next": {
+    "message": "Next"
+  },
+  "app.curseforge.no-files": {
+    "message": "No compatible files found."
+  },
+  "app.curseforge.popular": {
+    "message": "Popularity"
+  },
+  "app.curseforge.previous": {
+    "message": "Previous"
+  },
+  "app.curseforge.proxy-description": {
+    "message": "CurseForge is connected through the application server. No personal API key is needed."
+  },
+  "app.curseforge.restricted": {
+    "message": "The author has disabled downloads through third-party launchers."
+  },
+  "app.curseforge.retry": {
+    "message": "Try again"
+  },
+  "app.curseforge.search": {
+    "message": "Search CurseForge"
+  },
+  "app.curseforge.sort": {
+    "message": "Sort by"
+  },
+  "app.curseforge.updated": {
+    "message": "Recently updated"
+  },
+  "app.curseforge.versions": {
+    "message": "Versions"
+  },
+  "app.curseforge.website": {
+    "message": "Open on CurseForge"
+  },
   "app.debug-export.canceling": {
     "message": "Canceling export…"
   },
@@ -3361,6 +3685,9 @@
   },
   "app.settings.tabs.behavior": {
     "message": "Behavior"
+  },
+  "app.settings.tabs.curseforge": {
+    "message": "CurseForge"
   },
   "app.settings.tabs.features": {
     "message": "Features"

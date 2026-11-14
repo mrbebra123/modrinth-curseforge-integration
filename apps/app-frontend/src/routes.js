@@ -58,7 +58,7 @@ export default new createRouter({
 		{
 			path: '/browse/:projectType',
 			name: 'Discover content',
-			component: () => import('@/platform/adapters/browse/browse-page.vue'),
+			component: () => import('@/features/curseforge/content-browser.vue'),
 			meta: {
 				saveScroll: true,
 			},

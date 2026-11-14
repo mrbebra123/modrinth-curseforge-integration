@@ -33,6 +33,7 @@ import { platform as getOsPlatform, version as getOsVersion } from '@tauri-apps/
 import { computed, ref } from 'vue'
 
 import { useAppSettings } from '@/composables/use-app-settings.ts'
+import CurseForgeSettings from '@/features/curseforge/settings.vue'
 import PrivacySettings from '@/features/settings/account/privacy-settings.vue'
 import ProfileSettings from '@/features/settings/account/profile-settings.vue'
 import SocialSettings from '@/features/settings/account/social-settings.vue'
@@ -206,6 +207,12 @@ const tabs = [
 		category: tabCategories.system,
 		icon: WrenchIcon,
 		content: TroubleshootingSettings,
+	},
+	{
+		name: defineMessage({ id: 'app.settings.tabs.curseforge', defaultMessage: 'CurseForge' }),
+		category: tabCategories.system,
+		icon: CodeIcon,
+		content: CurseForgeSettings,
 	},
 ]
 

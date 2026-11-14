@@ -92,6 +92,7 @@
 				}
 			]
 		},
+		"curseforge:default",
 		"auth:default",
 		"import:default",
 		"jre:default",

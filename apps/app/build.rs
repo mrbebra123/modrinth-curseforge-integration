@@ -8,6 +8,7 @@ fn main() {
     tauri_build::try_build(
         tauri_build::Attributes::new()
             .codegen(tauri_build::CodegenContext::new())
+            .plugin("curseforge", InlinedPlugin::new().commands(&["request", "install", "save_file"]).default_permission(DefaultPermissionRule::AllowAllCommands))
             .plugin(
                 "auth",
                 InlinedPlugin::new()
